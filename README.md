@@ -19,6 +19,11 @@ I'm a Frontend Developer with full-stack skills. I have expertise in building be
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 
+### React libraries
+![Formik](https://img.shields.io/badge/-Formik-F2C94C?logo=javascript&logoColor=white&style=for-the-badge)
+![Yup](https://img.shields.io/badge/-Yup-F2C94C?logo=javascript&logoColor=white&style=for-the-badge)
+![Material-UI](https://img.shields.io/badge/-Material--UI-0081CB?logo=material-ui&logoColor=white&style=for-the-badge)
+
 ### Javascript libraries
 ![ONNX.js](https://img.shields.io/badge/-ONNX-0071C5?logo=onnx&logoColor=white&style=for-the-badge)
 ![Three.js](https://img.shields.io/badge/-Three.js-000000?logo=three.js&logoColor=white&style=for-the-badge)
@@ -35,6 +40,7 @@ I'm a Frontend Developer with full-stack skills. I have expertise in building be
 ### Other 👨‍💻
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+
 
 
 
