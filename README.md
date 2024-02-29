@@ -1,8 +1,8 @@
-# Hi there! 👋  I'm Jakub Prus, a Frontend Developer with full-stack skills.
+# Hi there! 👋  I'm Jakub Prus, a Full-Stack Developer.
 
 I have a growing interest and budding skills in creating simple, user-friendly interfaces that aim to offer a pleasant user experience. I'm continuously learning and adapting to improve my use of JavaScript and React, aspiring to build responsive and aesthetically appealing UIs while maintaining optimal performance.
 
-While my primary focus is on the frontend, I've also gained some expirience in backend development with Node.js. I appreciate the comprehensive understanding this gives me of projects, as it helps to ensure smoother integration of all components.
+While my primary focus is on the frontend, I am also skilled in creating and developing full-stack applications. I appreciate the comprehensive understanding this gives me of projects, as it helps to ensure smoother integration of all components.
 
 Most importantly, I strive to adhere to principles of clean, scalable, and easy-to-understand code. I find that this not only helps me meet project goals, but it also promotes a healthier codebase, encouraging collaboration and making future enhancements more manageable.
 
@@ -33,11 +33,12 @@ Most importantly, I strive to adhere to principles of clean, scalable, and easy-
 ![JSFeat](https://img.shields.io/badge/-JSFeat-F2C94C?logo=javascript&logoColor=white&style=for-the-badge)
 ![libsvm](https://img.shields.io/badge/-libsvm--js-F2C94C?logo=javascript&logoColor=white&style=for-the-badge)
 
-### Backend 
+### Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+![WebSockets](https://img.shields.io/badge/-WebSockets-333333?logo=websocket&logoColor=white&style=for-the-badge)
 
 ### Design 
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
